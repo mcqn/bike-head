@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Microbit-BoltConnector")(type "KiCad")(uri "${KIPRJMOD}/Microbit-BoltConnector.pretty")(options "")(descr ""))
+  (lib (name "Battery-2xAA-Multicomp-MP000325")(type "KiCad")(uri "${KIPRJMOD}/Battery-2xAA-Multicomp-MP000325.pretty")(options "")(descr ""))
+)
