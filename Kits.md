@@ -13,7 +13,7 @@
 ### Parts
 
 | Quantity | Part |
-+----------+------+
+|----------|------|
 | 1  | [Microbit LED driver PCB](Microbit-LED-Driver) |
 | 3  | MOSFET |
 | 6  | 1206 330(?) ohm resistors |
