@@ -1,4 +1,4 @@
-24603274682781552
+24606789623835459
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -65596,6 +65596,13 @@ Yellow 5381 Series LED
 0
 2
 2
+MagneticPogoPinConnector
+MagneticPogoPinConnector_1x04_P2.54mm_Horizontal
+Through hole straight pin header, 1x04, 2.54mm pitch, single row
+Through hole pin header THT 1x04 2.54mm single row
+0
+4
+4
 Microbit-BoltConnector
 Microbit Bolt Connector
 
@@ -98195,6 +98202,13 @@ igbt diode module
 0
 25
 25
+USB-C-Paddle
+USB_C_PADDLE
+
+
+0
+24
+24
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins

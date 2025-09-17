@@ -51,7 +51,13 @@
           "min_clearance": 0.5
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -112,7 +118,7 @@
         "max_error": 0.005,
         "min_clearance": 0.0,
         "min_connection": 0.0,
-        "min_copper_edge_clearance": 0.5,
+        "min_copper_edge_clearance": 0.25,
         "min_hole_clearance": 0.25,
         "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.2,
@@ -171,7 +177,9 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
+      "track_widths": [
+        0.0
+      ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -198,7 +206,12 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
@@ -431,7 +444,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "NoodeDriver.kicad_pro",
+    "filename": "NoodleDriver.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -578,6 +591,14 @@
     [
       "e438c8a8-7924-449e-bbdc-1687b4655d70",
       "Root"
+    ],
+    [
+      "fa423b82-d9c0-461e-87a1-ffcb3fe03478",
+      "Power"
+    ],
+    [
+      "fd4b8b0a-2cd4-4e2f-91ef-7f82256711a2",
+      "Microcontroller"
     ]
   ],
   "text_variables": {}

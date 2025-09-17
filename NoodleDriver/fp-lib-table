@@ -2,4 +2,6 @@
   (version 7)
   (lib (name "Microbit-BoltConnector")(type "KiCad")(uri "${KIPRJMOD}/Microbit-BoltConnector.pretty")(options "")(descr ""))
   (lib (name "Connector-1x12-horizontal-smd")(type "KiCad")(uri "${KIPRJMOD}/Connector-1x12-horizontal-smd.pretty")(options "")(descr ""))
+  (lib (name "USB-C-Paddle")(type "KiCad")(uri "${KIPRJMOD}/USB-C-Paddle.pretty")(options "")(descr ""))
+  (lib (name "MagneticPogoPinConnector")(type "KiCad")(uri "${KIPRJMOD}/MagneticPogoPinConnector.pretty")(options "")(descr ""))
 )
