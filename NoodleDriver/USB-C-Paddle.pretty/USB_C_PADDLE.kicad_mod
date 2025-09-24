@@ -265,7 +265,7 @@
 	(pad "A1" smd roundrect
 		(at 2.75 -0.875)
 		(size 0.25 2.3)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask")
 		(roundrect_rratio 0.25)
 		(thermal_bridge_angle 45)
 		(uuid "27cb9dd9-cfb3-4ba0-b079-b48291d5aeab")
@@ -273,7 +273,7 @@
 	(pad "A2" smd roundrect
 		(at 2.25 -0.65)
 		(size 0.25 1.8)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask")
 		(roundrect_rratio 0.25)
 		(thermal_bridge_angle 45)
 		(uuid "29cae010-00d9-4ee9-97b3-db44b5b4ad97")
@@ -281,7 +281,7 @@
 	(pad "A3" smd roundrect
 		(at 1.75 -0.65)
 		(size 0.25 1.8)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask")
 		(roundrect_rratio 0.25)
 		(thermal_bridge_angle 45)
 		(uuid "28b8d1dd-64c2-4225-b4dc-914dc5887f11")
@@ -289,7 +289,7 @@
 	(pad "A4" smd roundrect
 		(at 1.25 -0.875)
 		(size 0.25 2.3)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask")
 		(roundrect_rratio 0.25)
 		(thermal_bridge_angle 45)
 		(uuid "59619ffc-36d8-4428-812f-04ff1dbd767b")
@@ -297,7 +297,7 @@
 	(pad "A5" smd roundrect
 		(at 0.75 -0.65)
 		(size 0.25 1.8)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask")
 		(roundrect_rratio 0.25)
 		(thermal_bridge_angle 45)
 		(uuid "648120a3-8062-4c83-a663-0ee80287ae20")
@@ -305,7 +305,7 @@
 	(pad "A6" smd roundrect
 		(at 0.25 -0.65)
 		(size 0.25 1.8)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask")
 		(roundrect_rratio 0.25)
 		(thermal_bridge_angle 45)
 		(uuid "f758efd0-9cad-419d-8df2-1fde1629b524")
@@ -313,7 +313,7 @@
 	(pad "A7" smd roundrect
 		(at -0.25 -0.65 180)
 		(size 0.25 1.8)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask")
 		(roundrect_rratio 0.25)
 		(thermal_bridge_angle 45)
 		(uuid "40d1981f-feff-4031-94aa-e29c1810668a")
@@ -321,7 +321,7 @@
 	(pad "A8" smd roundrect
 		(at -0.75 -0.65 180)
 		(size 0.25 1.8)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask")
 		(roundrect_rratio 0.25)
 		(thermal_bridge_angle 45)
 		(uuid "8f16b034-9319-4403-87d8-fc378638adc0")
@@ -329,7 +329,7 @@
 	(pad "A9" smd roundrect
 		(at -1.25 -0.875 180)
 		(size 0.25 2.3)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask")
 		(roundrect_rratio 0.25)
 		(thermal_bridge_angle 45)
 		(uuid "ad6cfa0b-b64f-437e-bcf1-ee3672b37b30")
@@ -337,7 +337,7 @@
 	(pad "A10" smd roundrect
 		(at -1.75 -0.65 180)
 		(size 0.25 1.8)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask")
 		(roundrect_rratio 0.25)
 		(thermal_bridge_angle 45)
 		(uuid "0e3d88c2-83ff-4113-89d2-adb4bf37c87c")
@@ -345,7 +345,7 @@
 	(pad "A11" smd roundrect
 		(at -2.25 -0.65 180)
 		(size 0.25 1.8)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask")
 		(roundrect_rratio 0.25)
 		(thermal_bridge_angle 45)
 		(uuid "3cc57655-b084-4063-b06b-0ea7afaec1ab")
@@ -353,7 +353,7 @@
 	(pad "A12" smd roundrect
 		(at -2.75 -0.875 180)
 		(size 0.25 2.3)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask")
 		(roundrect_rratio 0.25)
 		(thermal_bridge_angle 45)
 		(uuid "51568849-6e3d-4fef-98f7-48172e1af792")
@@ -361,7 +361,7 @@
 	(pad "B1" smd roundrect
 		(at -2.75 -0.87)
 		(size 0.25 2.3)
-		(layers "B.Cu" "B.Paste" "B.Mask")
+		(layers "B.Cu" "B.Mask")
 		(roundrect_rratio 0.25)
 		(thermal_bridge_angle 45)
 		(uuid "d1b85a64-763e-48dd-ac50-7f51eb0856cd")
@@ -369,7 +369,7 @@
 	(pad "B2" smd roundrect
 		(at -2.25 -0.645)
 		(size 0.25 1.8)
-		(layers "B.Cu" "B.Paste" "B.Mask")
+		(layers "B.Cu" "B.Mask")
 		(roundrect_rratio 0.25)
 		(thermal_bridge_angle 45)
 		(uuid "f134a882-93aa-4dab-9818-1cf824906633")
@@ -377,7 +377,7 @@
 	(pad "B3" smd roundrect
 		(at -1.75 -0.645)
 		(size 0.25 1.8)
-		(layers "B.Cu" "B.Paste" "B.Mask")
+		(layers "B.Cu" "B.Mask")
 		(roundrect_rratio 0.25)
 		(thermal_bridge_angle 45)
 		(uuid "f72e0c9d-4fec-4248-bd00-d74cede23ee0")
@@ -385,7 +385,7 @@
 	(pad "B4" smd roundrect
 		(at -1.25 -0.87)
 		(size 0.25 2.3)
-		(layers "B.Cu" "B.Paste" "B.Mask")
+		(layers "B.Cu" "B.Mask")
 		(roundrect_rratio 0.25)
 		(thermal_bridge_angle 45)
 		(uuid "884732dd-4b81-4fdf-b862-1d71f17009f9")
@@ -393,7 +393,7 @@
 	(pad "B5" smd roundrect
 		(at -0.75 -0.645)
 		(size 0.25 1.8)
-		(layers "B.Cu" "B.Paste" "B.Mask")
+		(layers "B.Cu" "B.Mask")
 		(roundrect_rratio 0.25)
 		(thermal_bridge_angle 45)
 		(uuid "1fb0fa26-02a2-45ab-8549-e3f961da943f")
@@ -401,7 +401,7 @@
 	(pad "B6" smd roundrect
 		(at -0.25 -0.645)
 		(size 0.25 1.8)
-		(layers "B.Cu" "B.Paste" "B.Mask")
+		(layers "B.Cu" "B.Mask")
 		(roundrect_rratio 0.25)
 		(thermal_bridge_angle 45)
 		(uuid "52546d60-5b55-4f11-af42-44529ff5f8a8")
@@ -409,7 +409,7 @@
 	(pad "B7" smd roundrect
 		(at 0.25 -0.645 180)
 		(size 0.25 1.8)
-		(layers "B.Cu" "B.Paste" "B.Mask")
+		(layers "B.Cu" "B.Mask")
 		(roundrect_rratio 0.25)
 		(thermal_bridge_angle 45)
 		(uuid "b0cb48f0-6770-44e2-8621-b43312c31ffd")
@@ -417,7 +417,7 @@
 	(pad "B8" smd roundrect
 		(at 0.75 -0.645 180)
 		(size 0.25 1.8)
-		(layers "B.Cu" "B.Paste" "B.Mask")
+		(layers "B.Cu" "B.Mask")
 		(roundrect_rratio 0.25)
 		(thermal_bridge_angle 45)
 		(uuid "de183233-ee54-402e-8cb5-bc4d20b008ef")
@@ -425,7 +425,7 @@
 	(pad "B9" smd roundrect
 		(at 1.25 -0.87 180)
 		(size 0.25 2.3)
-		(layers "B.Cu" "B.Paste" "B.Mask")
+		(layers "B.Cu" "B.Mask")
 		(roundrect_rratio 0.25)
 		(thermal_bridge_angle 45)
 		(uuid "5fe4ff95-3297-4f22-b71b-9111e0d9e511")
@@ -433,7 +433,7 @@
 	(pad "B10" smd roundrect
 		(at 1.75 -0.645 180)
 		(size 0.25 1.8)
-		(layers "B.Cu" "B.Paste" "B.Mask")
+		(layers "B.Cu" "B.Mask")
 		(roundrect_rratio 0.25)
 		(thermal_bridge_angle 45)
 		(uuid "ba3f0415-7742-452e-ae76-edf5ebce6ddb")
@@ -441,7 +441,7 @@
 	(pad "B11" smd roundrect
 		(at 2.25 -0.645 180)
 		(size 0.25 1.8)
-		(layers "B.Cu" "B.Paste" "B.Mask")
+		(layers "B.Cu" "B.Mask")
 		(roundrect_rratio 0.25)
 		(thermal_bridge_angle 45)
 		(uuid "d3293647-c406-4e4c-bf0b-971066357419")
@@ -449,7 +449,7 @@
 	(pad "B12" smd roundrect
 		(at 2.75 -0.87 180)
 		(size 0.25 2.3)
-		(layers "B.Cu" "B.Paste" "B.Mask")
+		(layers "B.Cu" "B.Mask")
 		(roundrect_rratio 0.25)
 		(thermal_bridge_angle 45)
 		(uuid "e6ca9d8f-c870-4eea-9aed-f380b1e11c04")
